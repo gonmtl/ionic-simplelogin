@@ -1,3 +1,3 @@
 # Simple HTML login
 
-Live demo: 
+Live demo: https://gonmtl.github.io/ionic-simplelogin/
